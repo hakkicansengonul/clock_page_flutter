@@ -2,7 +2,7 @@
 
 
 
-![Finished App](https://github.com/hakkicansengonul/images/blob/master/clock_page_1..gif) -![Finished App](https://github.com/hakkicansengonul/images/blob/master/clock_page_2.gif)
+![Finished App](https://github.com/hakkicansengonul/images/blob/master/clock_page_1..gif) ![Finished App](https://github.com/hakkicansengonul/images/blob/master/clock_page_2.gif)
 
 
 
